@@ -1,1 +1,1 @@
-calcwithreact.netlify.app
+http://calcwithreact.netlify.app
